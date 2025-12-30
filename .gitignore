@@ -1,17 +1,17 @@
 ```
-# Build artifacts
-bin/
-obj/
+# Binaries
 *.exe
 *.dll
-*.pdb
-*.userprefs
+*.so
+*.a
+*.obj
+*.out
 
 # Dependencies
 packages/
-node_modules/
-venv/
-.venv/
+lib/
+bin/
+obj/
 
 # Logs
 *.log
@@ -31,14 +31,9 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Coverage
-coverage/
-htmlcov/
-.coverage
-
-# Python (if applicable)
-__pycache__/
-*.pyc
-*.pyo
-.Python
+# Build outputs
+dist/
+build/
+target/
+out/
 ```
