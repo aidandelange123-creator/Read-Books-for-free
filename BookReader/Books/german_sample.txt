@@ -1,0 +1,16 @@
+Der Schnelle Fuchs
+==================
+
+Der schnelle braune Fuchs springt über den faulen Hund. Dies ist ein Beispiel für deutschen Text mit speziellen Zeichen wie ä, ö, ü, ß.
+
+Kapitel 1
+---------
+
+Es war einmal ein kleines Dorf in den Bergen. Jeden Tag wachten die Bewohner früh auf, um auf ihren Feldern zu arbeiten und sich um ihre Tiere zu kümmern.
+
+Kapitel 2
+---------
+
+Goethe und Schiller gelten als die bedeutendsten Dichter der deutschen Klassik. Ihre Werke haben die deutsche Literatur nachhaltig geprägt.
+
+Ende

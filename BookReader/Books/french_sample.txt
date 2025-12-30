@@ -1,0 +1,16 @@
+Le Renard Rapide
+================
+
+Le renard rapide saute par-dessus le chien paresseux. Voici un exemple de texte en français avec des caractères spéciaux comme à, é, è, ù, ç.
+
+Chapitre 1
+----------
+
+Il était une fois une petite ville dans les montagnes. Tous les jours, les habitants se levaient tôt pour travailler dans leurs champs et s'occuper de leurs animaux.
+
+Chapitre 2
+----------
+
+Le Petit Prince est une œuvre de langue française la plus lue et la plus traduite au monde après le Seigneur des anneaux. C'est une œuvre de philosophie poétique.
+
+Fin
