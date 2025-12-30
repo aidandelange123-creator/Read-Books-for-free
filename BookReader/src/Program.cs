@@ -86,11 +86,6 @@ namespace BookReader
                 else if (c >= '\u0900' && c <= '\u097f') hindi++; // Devanagari script
             }
             
-            // Determine which language has the most characters
-            var langCounts = new { English = english, Spanish = spanish, French = french, 
-                                 German = german, Chinese = chinese, Japanese = japanese, 
-                                 Russian = russian, Arabic = arabic, Hindi = hindi };
-            
             // Return the language with highest count
             var langCounts = new[] { 
                 ("English", english), ("Spanish", spanish), ("French", french),
